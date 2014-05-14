@@ -455,6 +455,9 @@
     <keybind key="W-Up">
       <action name="GrowToEdgeNorth"/>
     </keybind>
+    <keybind key="W-A-m">
+        <action name="ToggleMaximize"/>
+    </keybind>
     <keybind key="W-A-Left">
       <action name="Execute">
         <command>cb-aerosnap --left</command>
