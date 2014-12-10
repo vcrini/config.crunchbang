@@ -180,7 +180,7 @@
   </dock>
   <keyboard>
     <chainQuitKey>C-g</chainQuitKey>
-    <!-- Keybindings for desktop switching -->
+    <!-- Keybindings for desktop switching 
     <keybind key="C-A-Left">
       <action name="GoToDesktop">
         <to>left</to>
@@ -192,7 +192,7 @@
         <to>right</to>
         <wrap>no</wrap>
       </action>
-    </keybind>
+    </keybind>-->
     <keybind key="C-A-Up">
       <action name="GoToDesktop">
         <to>up</to>
